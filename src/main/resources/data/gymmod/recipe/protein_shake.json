@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:milk_bucket",
+    "minecraft:cooked_chicken",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "gymmod:protein_shake",
+    "count": 2
+  }
+}

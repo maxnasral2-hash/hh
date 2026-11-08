@@ -1,0 +1,20 @@
+{
+  "item.gymmod.dumbbell": "Гантеля",
+  "item.gymmod.barbell": "Штанга",
+  "item.gymmod.jump_rope": "Скакалка",
+  "item.gymmod.kettlebell": "Гиря",
+  "item.gymmod.protein_shake": "Протеиновый коктейль",
+  "item.gymmod.power_bowl": "Спортивный боул",
+  "item.gymmod.oat_bar": "Овсяный батончик",
+  "gymmod.stat.strength": "Сила",
+  "gymmod.stat.agility": "Ловкость",
+  "gymmod.stat.endurance": "Выносливость",
+  "gymmod.tooltip.macros": "§7Белки: §f%s §7| Углеводы: §f%s §7| Жиры: §f%s",
+  "gymmod.tooltip.value": "§6Питательная ценность: §e%s §f(%s)",
+  "gymmod.tooltip.trains": "§aПКМ — подход: %s, до %s опыта (зависит от питания)",
+  "gymmod.msg.too_hungry": "§cСлишком голоден для тренировки — поешь!",
+  "gymmod.msg.gain": "§a+%2$s опыта: %1$s §7(питание %3$s)",
+  "gymmod.msg.level_up": "§6§lУровень! §r§e%s: %s",
+  "gymmod.msg.ate": "§7Питание влияет на прокачку: §e%s",
+  "gymmod.cmd.stats": "§6=== Качалка ===\n§eСила: %s  Ловкость: %s  Выносливость: %s\n§7Качество диеты: §f%s §7| Множитель опыта: §f%s"
+}

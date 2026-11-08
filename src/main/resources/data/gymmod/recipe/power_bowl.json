@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bowl",
+    "minecraft:cooked_chicken",
+    "minecraft:baked_potato",
+    "minecraft:carrot"
+  ],
+  "result": {
+    "id": "gymmod:power_bowl",
+    "count": 1
+  }
+}

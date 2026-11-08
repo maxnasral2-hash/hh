@@ -1,0 +1,20 @@
+{
+  "item.gymmod.dumbbell": "Dumbbell",
+  "item.gymmod.barbell": "Barbell",
+  "item.gymmod.jump_rope": "Jump Rope",
+  "item.gymmod.kettlebell": "Kettlebell",
+  "item.gymmod.protein_shake": "Protein Shake",
+  "item.gymmod.power_bowl": "Power Bowl",
+  "item.gymmod.oat_bar": "Oat Bar",
+  "gymmod.stat.strength": "Strength",
+  "gymmod.stat.agility": "Agility",
+  "gymmod.stat.endurance": "Endurance",
+  "gymmod.tooltip.macros": "§7Protein: §f%s §7| Carbs: §f%s §7| Fat: §f%s",
+  "gymmod.tooltip.value": "§6Nutrition value: §e%s §f(%s)",
+  "gymmod.tooltip.trains": "§aRight-click to train %s, up to %s XP (depends on diet)",
+  "gymmod.msg.too_hungry": "§cToo hungry to train — eat something!",
+  "gymmod.msg.gain": "§a+%2$s XP: %1$s §7(diet %3$s)",
+  "gymmod.msg.level_up": "§6§lLevel up! §r§e%s: %s",
+  "gymmod.msg.ate": "§7Your diet affects gains: §e%s",
+  "gymmod.cmd.stats": "§6=== Gym ===\n§eStrength: %s  Agility: %s  Endurance: %s\n§7Diet quality: §f%s §7| XP multiplier: §f%s"
+}

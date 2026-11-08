@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "gymmod",
+  "version": "${version}",
+  "name": "Gym Mod / Качалка",
+  "description": "Качайся, правильно питайся и становись сильнее, быстрее и крепче.",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.gymmod.GymMod"] },
+  "depends": {
+    "fabricloader": ">=0.19.1",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
